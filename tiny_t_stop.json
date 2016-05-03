@@ -1,11 +1,11 @@
 {
   "origin": [
-    "🚏#spot##spot##spot##morespots##morespots#"
+    "🚉#place##place##place##places##places#"
   ],
-  "spot": ["#bus#", "#gap#", "#gap#", "#gap#", "#gap#", "#gap#", "#gap#", "#gap#", "#gap#", "#person#", "#person#", "#person#", "#person#", "#person#", "#person#", "#person#", "#person#", "#person#", "#person#"],
-  "morespots": ["", "#spot##spot##spot##spot#"],
-  "train": ["🚌", "🚎"],
+  "place": ["#train#", "#gap#", "#gap#", "#gap#", "#gap#", "#gap#", "#gap#", "#gap#", "#gap#", "#person#", "#person#", "#person#", "#person#", "#person#", "#person#", "#person#", "#person#", "#person#", "#person#"],
+  "places": ["", "#place##place##place##place#"],
+  "train": ["🚃", "🚈", "🚍", "🚇"],
   "gap": ["　"],
   "person": ["🚶", "🏃", "💃", "🕴","👫","👬","👭"],
-  "house": ["🏛", "🏚", "🏠", "🏡","⛪", "🕌", "🕍", "🏢", "🏣", "🏤", "🏥","🏦","🏨","🏩","🏪","🏫","🏬"]
+  "house": ["🏙️","🏛", "🏠", "🏡","⛪",  "🕍", "🏢", "🏥","🏦","🏨","🏩","🏪","🏫","🏬"]
 }
